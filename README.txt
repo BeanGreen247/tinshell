@@ -1,7 +1,7 @@
 tinshell
 
 tinshell - a fast shell.
-tinterm is a fast shell written in C. Uses vte library.
+tinterm is a fast shell written in C.
 tinterm does not take any options.
 
 install packages
